@@ -1,1 +1,1 @@
-# SmartParking
+# This is the smart parking website that provides the solution of the parking difficults faced in the metropolitan cities.It makes use of the html and css for the designing of the frontend of the website.JavaScript is used for the validations.PHP is used for the storing the information in the database.
